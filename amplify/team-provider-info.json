@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-notsosafemeds-dev-3fae7-authRole",
+      "UnauthRoleArn": "arn:aws:iam::974024378549:role/amplify-notsosafemeds-dev-3fae7-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::974024378549:role/amplify-notsosafemeds-dev-3fae7-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-notsosafemeds-dev-3fae7-deployment",
+      "UnauthRoleName": "amplify-notsosafemeds-dev-3fae7-unauthRole",
+      "StackName": "amplify-notsosafemeds-dev-3fae7",
+      "StackId": "arn:aws:cloudformation:us-east-1:974024378549:stack/amplify-notsosafemeds-dev-3fae7/94a16da0-2447-11ef-ad1a-0ee810cf6b83",
+      "AmplifyAppId": "d1qm70seygrfke"
+    }
+  }
+}
