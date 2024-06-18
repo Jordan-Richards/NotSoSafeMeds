@@ -8,4 +8,3 @@ export default function RootLayout() {
   );
 }
 
-// test 1
